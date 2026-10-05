@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
-A hands-on project that puts every topic of the **Advanced Learning Algorithms** course (Machine Learning Specialization, course 2) into working code. Instead of only calling libraries, the core algorithms are **implemented from scratch in NumPy** and then compared against TensorFlow, scikit-learn and XGBoost.
+A hands-on project that puts every topic of the **Advanced Learning Algorithms** course (Machine Learning Specialization, course 2) into working code. Instead of only calling libraries, the core algorithms are **implemented from scratch in NumPy** and then compared against TensorFlow, scikit-learn and XGBoost....
 
 ## What is inside
 
