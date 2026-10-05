@@ -1,0 +1,32 @@
+{
+  "nn": {
+    "scratch_nn_binary_test_acc": 0.9736842105263158,
+    "scratch_nn_multiclass_test_acc": 0.9666666666666667
+  },
+  "tf": {},
+  "diagnostics": {
+    "best_lambda": 0.1,
+    "final_test_error": 0.043859649122807015,
+    "digits_cv_errors": 10,
+    "skewed_always_zero_acc": 0.97475,
+    "skewed_precision": 0.9722222222222222,
+    "skewed_recall": 0.3465346534653465,
+    "skewed_f1": 0.5109489051094891
+  },
+  "trees": {
+    "trees_breast_cancer": {
+      "Tree (scratch)": 0.9035087719298246,
+      "Tree (sklearn)": 0.9122807017543859,
+      "Forest (scratch, 25)": 0.9385964912280702,
+      "Forest (sklearn, 200)": 0.9385964912280702,
+      "HistGradientBoosting*": 0.9649122807017544
+    },
+    "trees_digits": {
+      "Tree (scratch)": 0.7972222222222223,
+      "Tree (sklearn)": 0.8,
+      "Forest (scratch, 25)": 0.9583333333333334,
+      "Forest (sklearn, 200)": 0.9666666666666667,
+      "HistGradientBoosting*": 0.9555555555555556
+    }
+  }
+}

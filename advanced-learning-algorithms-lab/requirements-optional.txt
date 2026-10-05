@@ -1,0 +1,3 @@
+# Needed only for experiment 2 (Keras) and the real XGBoost model in experiment 4
+tensorflow>=2.15
+xgboost>=2.0
