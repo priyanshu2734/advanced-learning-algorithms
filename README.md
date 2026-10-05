@@ -23,7 +23,7 @@ A hands-on project that puts every topic of the **Advanced Learning Algorithms**
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/advanced-learning-algorithms-lab.git
+git clone https://github.com/<priyanshu2734>/advanced-learning-algorithms-lab.git
 cd advanced-learning-algorithms-lab
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
